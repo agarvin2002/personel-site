@@ -1,0 +1,166 @@
+body{
+    background-color: black;
+    margin : 0;
+    text-align: center;
+
+}
+h1{
+    color : #b5f5f7;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Leckerli One', cursive;
+}
+.name{
+    color: #b5f5f7;
+    font-family: 'Tangerine', cursive;
+}
+h2{
+    color:#11cdd4;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    font-family: 'Quintessential', cursive;
+}
+h3{
+    color: #02f2fa;
+    font-family: 'Raleway', sans-serif;
+}   
+p {
+    color: #ffffff;
+    line-height: 2;
+    font-family: 'Cormorant Garamond', serif;
+}
+.intro{
+    width: 60%;
+    margin: auto;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#15b4ba;
+    border-width:5px;
+    width: 5%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+a{
+    color: #11999E;
+    font-family: 'Raleway', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color:#EAF6F6 ;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width:5px;
+    width: 5%;
+}
+.bottom-container{
+    background-color: #FFE6E6;
+    padding: 50px 0 20px;
+}
+.my-photo{
+    width: 20%;
+    padding-top: 50px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Amatic SC', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    line-height: 4;
+    
+
+}
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+}
+.bottom-container{
+    background-color: black;
+    padding: 50px 0 20px;
+    margin-top: 50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align: justify;
+}
+.skills-para{
+    margin-left:0px;
+}
+.html-img{
+    width: 25%;
+    float: left;
+}
+.css-img{
+    width: 25%;
+    float: right;
+}
+.js-img{
+    width: 23%;
+    float: left;
+    padding-right: 30px;
+}
+.bs-img{
+    width: 25%;
+    float: right;
+}
+.njs-img{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+.expressjs-img{
+    width: 25%;
+    float: right;
+    padding-left: 20px;
+}
+.reactjs-img{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+.mysql-img{
+    width: 25%;
+    float: right;
+}
+.mongodb-img{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+.socialpicture{
+    width: 2%;
+}
+.education{
+    width: 20%;
+}
+.certification{
+    margin-top: 20px;
+    width: 20%;
+}
+.project{
+    width: 20%;
+}
