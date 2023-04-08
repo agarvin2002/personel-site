@@ -46,19 +46,12 @@ hr{
 }
 a{
     color: #11999E;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     margin: 10px 20px;
     text-decoration: none;
 }
 a:hover{
     color:#EAF6F6 ;
-}
-hr{
-    border-style: none;
-    border-top-style: dotted;
-    border-color: white;
-    border-width:5px;
-    width: 5%;
 }
 .bottom-container{
     background-color: #FFE6E6;
@@ -78,7 +71,7 @@ hr{
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Cormorant Garamond', serif;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
